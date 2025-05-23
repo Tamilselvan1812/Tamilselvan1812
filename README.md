@@ -46,3 +46,4 @@
 
 - [GitHub Repositories](https://github.com/Tamilselvan1812?tab=repositories)
 - linkedin (https://www.linkedin.com/in/tamilselvan-krishnasamy-277a19137?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Dev community(https://dev.to/tamilselvan1812)
