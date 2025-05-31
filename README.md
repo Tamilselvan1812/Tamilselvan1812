@@ -50,8 +50,8 @@
 </a>
 
 <!-- Project 3 -->
-<a href="https://github.com/Tamilselvan1812/ILUGC-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=ILUGC-clone&theme=radical&cache_bust=2" />
+<a href="https://github.com/Tamilselvan1812/13_ILUGC-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=13_ILUGC-clone&theme=radical&cache_bust=1" />
 </a>
 
 <!-- Project 4 -->
