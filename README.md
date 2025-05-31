@@ -45,8 +45,8 @@
 </a>
 
 <!-- Project 2 -->
-<a href="https://github.com/Tamilselvan1812/My-Ecom-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=My-Ecom-website&theme=radical" />
+<a href="https://github.com/Tamilselvan1812/15_RandomNumberGame">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=15_RandomNumberGame&theme=radical" />
 </a>
 
 <!-- Project 3 -->
