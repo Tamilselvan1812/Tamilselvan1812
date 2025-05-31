@@ -90,6 +90,6 @@
 ---
 
 *Made with ❤️ by [Tamilselvan Krishnasamy](https://github.com/Tamilselvan1812)*  
-*Updated automatically with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)*
+
 
 
