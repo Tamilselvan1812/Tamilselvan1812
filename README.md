@@ -23,7 +23,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tamilselvan-krishnasamy-277a19137" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="[https://dev.to/tamilselvan1812]" target="_blank"><img src="https://img.shields.io/badge/DEV.to-%23000000.svg?style=flat&logo=devdotto&logoColor=white" /></a>
+<a href="https://dev.to/tamilselvan1812" target="_blank"><img src="https://img.shields.io/badge/DEV.to-%23000000.svg?style=flat&logo=devdotto&logoColor=white" /></a>
 </p>
 
 ---
