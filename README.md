@@ -40,7 +40,7 @@
 
 <!-- Project 1 -->
 <a href="https://github.com/Tamilselvan1812/Youtube-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=Youtube-clone&theme=radical&cache_bust=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=Youtube-clone&theme=radical&cache_bust=2" />
   
 </a>
 
@@ -51,7 +51,7 @@
 
 <!-- Project 3 -->
 <a href="https://github.com/Tamilselvan1812/ILUGC-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=ILUGC-clone&theme=radical&cache_bust=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=ILUGC-clone&theme=radical&cache_bust=2" />
 </a>
 
 <!-- Project 4 -->
