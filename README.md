@@ -64,7 +64,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamilselvan1812&show_icons=true&theme=radical&cache_bust=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamilselvan1812&show_icons=true&theme=radical&cache_bust=2" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilselvan1812&layout=compact&theme=radical&cache_bust=1" alt="Top Languages" />
 </p>
 
