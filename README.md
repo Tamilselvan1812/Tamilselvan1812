@@ -56,7 +56,7 @@
 
 <!-- Project 4 -->
 <a href="https://github.com/Tamilselvan1812/website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=website&theme=radical&cache_bust=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=website&theme=radical" />
 </a>
 
 ---
