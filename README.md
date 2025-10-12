@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Java Full Stack** (HTML, CSS, JavaScript, React, Java, Spring Boot, SQL)
+- 🌱 I’m currently learning **Java Full Stack** (HTML, CSS, JavaScript, React, Java, Spring Boot, SQL,Postgresql)
 - 🧠 Improving my **logic-building** and **problem-solving** skills
 - 💬 Ask me about **Front-end, Java, or Spring Boot**
 - 📫 Reach me: **tamilselvankrishnasamy18@gmail.com**
