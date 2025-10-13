@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack** (HTML, CSS, JavaScript, React, Java, Spring Boot, SQL,Postgresql)
 - 🧠 Improving my **logic-building** and **problem-solving** skills
-- 💬 Ask me about **Front-end, Java, or Spring Boot**
+- 💬 Ask me about **Front-end, Java, Spring Boot & Database**
 - 📫 Reach me: **tamilselvankrishnasamy18@gmail.com**
 - 🗂️ All of my projects are here: [GitHub Repositories](https://github.com/Tamilselvan1812?tab=repositories)
 - 🎥 I love video editing & travel reels using **DaVinci Resolve**
