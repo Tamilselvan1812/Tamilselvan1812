@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Tamilselvan Krishnasamy</h1>
+<h1 align="center">Hi👋 I'm Tamilselvan Krishnasamy</h1>
 <h3 align="center">Aspiring Java Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -39,8 +39,8 @@
 ### 📌 Pinned Projects (Manual Object Style)
 
 <!-- Project 1 -->
-<a href="https://github.com/Tamilselvan1812/14_Youtube-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=14_Youtube-clone&theme=radical&cache_bust=2" />
+<a href="https://github.com/Tamilselvan1812/31_quizapplication">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=31_quizapplication&theme=radical&cache_bust=2" />
   
 </a>
 
