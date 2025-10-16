@@ -45,8 +45,8 @@
 </a>
 
 <!-- Project 2 -->
-<a href="https://github.com/Tamilselvan1812/15_RandomNumberGame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=15_RandomNumberGame&theme=radical&cache_bust=1" />
+<a href="https://github.com/Tamilselvan1812/34-StudentManagementSystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=34-StudentManagementSystem&theme=radical&cache_bust=1" />
 </a>
 
 <!-- Project 3 -->
