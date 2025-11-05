@@ -73,9 +73,9 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- https://dev.to/tamilselvan1812/day-20-dom-basics-select-update-create-and-remove-elements-using-javascript-21j3
-- https://dev.to/tamilselvan1812/day21-build-a-simple-counter-app-using-html-css-javascript-10p6
-- https://dev.to/tamilselvan1812/-my-javascript-journey-begins-understanding-the-basics-54i2
+- https://dev.to/tamilselvan1812/building-a-full-stack-student-management-system-with-react-spring-boot-and-postgresql-4igb
+- https://dev.to/tamilselvan1812/day-104-understanding-jpa-hibernate-and-jparepository-in-spring-boot-1l04
+- https://dev.to/tamilselvan1812/day-102103-connecting-spring-boot-with-postgresql-database-3nkm
 <!-- BLOG-POST-LIST:END -->
 
 ---
