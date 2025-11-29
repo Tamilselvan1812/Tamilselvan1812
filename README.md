@@ -36,7 +36,7 @@
 
 ---
 
-### 📌 Pinned Projects (Manual Object Style)
+### 📌 Pinned Projects 
 
 <!-- Project 1 -->
 <a href="https://github.com/Tamilselvan1812/31_quizapplication">
