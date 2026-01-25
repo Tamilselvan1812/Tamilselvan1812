@@ -73,7 +73,7 @@
 
 ---
 
-### 🎯 Goals for 2025
+### 🎯 Goals for 2026
 
 - ✅ Build 10+ real-world full-stack projects
 - ✅ Contribute to open-source
