@@ -38,10 +38,21 @@
 
 ### 📌 Pinned Projects
 
-- [Student Management System](https://github.com/Tamilselvan1812/34-StudentManagementSystem)  
-- [Hotel Management System](https://github.com/Tamilselvan1812/35-HotelManagementSystem)  
-- [Quiz Application](https://github.com/Tamilselvan1812/31_quizapplication)  
-- [Todo List](https://github.com/Tamilselvan1812/20_TodoList)
+🚀 **Student Management System**  
+Full-stack app with React + Spring Boot + PostgreSQL  
+🔗 https://github.com/Tamilselvan1812/34-StudentManagementSystem
+
+🚀 **Hotel Management System**  
+Java-based management system with CRUD features  
+🔗 https://github.com/Tamilselvan1812/35-HotelManagementSystem
+
+🚀 **Quiz Application**  
+Interactive quiz app built with JavaScript  
+🔗 https://github.com/Tamilselvan1812/31_quizapplication
+
+🚀 **Todo List App**  
+Task management app with clean UI  
+🔗 https://github.com/Tamilselvan1812/20_TodoList
 
  
 ---
