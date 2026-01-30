@@ -38,17 +38,21 @@
 
 ### 📌 Pinned Projects 
 
-<!-- Project 1 --> <a href="https://github.com/Tamilselvan1812/31_quizapplication">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=31_quizapplication&theme=radical&cache_bust=3" /> </a> 
+<!-- Project 1 --> 
+  <a href="https://github.com/Tamilselvan1812/31_quizapplication">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=31_quizapplication&theme=radical" /> </a>
+  
+<!-- Project 2 -->
+  <a href="https://github.com/Tamilselvan1812/31_quizapplication">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=31_quizapplication&theme=radical" /></a>
 
-<!-- Project 2 --> <a href="https://github.com/Tamilselvan1812/34-StudentManagementSystem">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=34-StudentManagementSystem&theme=radical&cache_bust=1" /> </a>
-
-<!-- Project 3 --> <a href="https://github.com/Tamilselvan1812/35-HotelManagementSystem"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=35-HotelManagementSystem&theme=radical&cache_bust=1" /> </a>
+<!-- Project 3 -->
+  <a href="https://github.com/Tamilselvan1812/35-HotelManagementSystem"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=35-HotelManagementSystem&theme=radical&cache_bust=1" /> </a>
 
 <!-- Project 4 --> <a href="https://github.com/Tamilselvan1812/20_TodoList">  
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamilselvan1812&repo=20_TodoList&theme=radical&cache_bust=4" /> </a>
+ 
 ---
 
 
