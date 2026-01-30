@@ -38,10 +38,10 @@
 
 ### 📌 Pinned Projects
 
-🚀 [Student Management System](https://github.com/Tamilselvan1812/34-StudentManagementSystem)  
-🚀 [Hotel Management System](https://github.com/Tamilselvan1812/35-HotelManagementSystem)  
-🚀 [Quiz Application](https://github.com/Tamilselvan1812/31_quizapplication)  
-🚀 [Todo List](https://github.com/Tamilselvan1812/20_TodoList)
+- [Student Management System](https://github.com/Tamilselvan1812/34-StudentManagementSystem)  
+- [Hotel Management System](https://github.com/Tamilselvan1812/35-HotelManagementSystem)  
+- [Quiz Application](https://github.com/Tamilselvan1812/31_quizapplication)  
+- [Todo List](https://github.com/Tamilselvan1812/20_TodoList)
 
  
 ---
