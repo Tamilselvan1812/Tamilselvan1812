@@ -52,6 +52,7 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- https://dev.to/tamilselvan1812/what-i-covered-in-the-last-two-months-after-my-first-full-stack-project-18ek
 - https://dev.to/tamilselvan1812/building-a-full-stack-student-management-system-with-react-spring-boot-and-postgresql-4igb
 - https://dev.to/tamilselvan1812/day-104-understanding-jpa-hibernate-and-jparepository-in-spring-boot-1l04
 - https://dev.to/tamilselvan1812/day-102103-connecting-spring-boot-with-postgresql-database-3nkm
