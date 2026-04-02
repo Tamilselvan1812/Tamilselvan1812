@@ -38,10 +38,11 @@
 
 ### 📌 Pinned Projects
 
+- [User Authentication System](https://github.com/Tamilselvan1812/37-UserAuthenticationSystem)
 - [Student Management System](https://github.com/Tamilselvan1812/34-StudentManagementSystem)  
-- [Hotel Management System](https://github.com/Tamilselvan1812/35-HotelManagementSystem)  
 - [Quiz Application](https://github.com/Tamilselvan1812/31_quizapplication)
-- [Todo List](https://github.com/Tamilselvan1812/20_TodoList)
+- [GitHub & GitLab Profile Finder](https://github.com/Tamilselvan1812/36_GitHub-GitLab-ProfileFinder)
+
 
 
  
